@@ -1,0 +1,89 @@
+* {
+    color: #003366 !important;
+}
+
+body {
+    background-color: #ffffff !important; /* Fundo branco */
+}
+
+/* Header e Footer brancos */
+#mainNav, footer {
+    background-color: #000000 !important;
+    color: #003366 !important;
+    border-bottom: 2px solid #fffb00 !important;
+}
+
+/* bg-primary branco */
+.bg-primary {
+    background-color: #fffb00 !important;
+}
+
+.container,
+.card,
+.section,
+form {
+    background-color: #000000 !important;
+    border-color: #f8f9fa !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #fffb00 !important;
+}
+
+p, span, li, label {
+    color: #3700ff !important;
+}
+
+button, .btn {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+}
+
+button:hover, .btn:hover {
+    background-color: #005bb5 !important;
+}
+
+a {
+    color: #ffffff !important;
+}
+
+a:hover {
+    color: #ffffff !important;
+}
+
+input, textarea, select {
+    background-color: #ffffff !important;
+    color: #fffb00 !important;
+    border-color: #99c2ff !important;
+}
+
+input:focus, textarea:focus, select:focus {
+    border-color: #ffffff !important;
+}
+
+table {
+    background-color: #f0f8ff !important;
+}
+
+th {
+    background-color: #0066cc !important;
+    color: #f2ff00 !important;
+}
+
+th, td {
+    border-color: #99c2ff !important;
+    color: #003366 !important;
+}
+
+/* Classes utilitárias */
+.text-blue {
+    color: #003366 !important;
+}
+
+.bg-light-blue {
+    background-color: #060606 !important;
+}
+
+.border-blue {
+    border-color: #99c2ff !important;
+}
